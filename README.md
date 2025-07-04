@@ -38,7 +38,7 @@ What happens
 * It will read URLs from URLs.xlsx, check each website for uptime, and attempt to take screenshots.
 * Progress and results are displayed live in the terminal.
 
-5️⃣ *Output*
+5*Output*
 
 * A new folder will be automatically created with:
 
